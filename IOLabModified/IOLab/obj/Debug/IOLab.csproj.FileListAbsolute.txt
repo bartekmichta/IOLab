@@ -1,0 +1,6 @@
+C:\Users\Bartek\Source\Repos\IDovee\IOLab\IOLab\obj\Debug\IOLab.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Source\Repos\IDovee\IOLab\IOLab\bin\Debug\IOLab.exe.config
+C:\Users\Bartek\Source\Repos\IDovee\IOLab\IOLab\bin\Debug\IOLab.exe
+C:\Users\Bartek\Source\Repos\IDovee\IOLab\IOLab\bin\Debug\IOLab.pdb
+C:\Users\Bartek\Source\Repos\IDovee\IOLab\IOLab\obj\Debug\IOLab.exe
+C:\Users\Bartek\Source\Repos\IDovee\IOLab\IOLab\obj\Debug\IOLab.pdb
